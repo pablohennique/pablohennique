@@ -1,8 +1,8 @@
-<h3 align="center">A Passionate Developer Who is Eager to Learn</h3>
+<h3 align="center">A Passionate Fullstack Developer</h3>
 
-- 🌱 I'm a web developer in the making. Transitioning from enterprise software sales into dev
-- 🥳 I completed the Le Wagon bootcamp in June 2023
-- 🙋‍♂️ I'm eager to transition into a full-time web development position where I can pursue my passion for coding and bring value through my customer-centric and value-focused mindset.
+- 🌱 Web developer with a customer facing background
+- 🥳 Started with Ruby on Rails and now focusing on JavaScript (React & Node)
+- 🙋‍♂️ Looking for web development opportunities where I can pursue my passion for coding and bring value through my value-focused mindset.
 - 📫 You can reach me at phennique@gmail.com or <a href="https://linkedin.com/in/pablohennique">LinkedIn</a>
 
 <h4 align="left">Languages and Tools:</h3>
